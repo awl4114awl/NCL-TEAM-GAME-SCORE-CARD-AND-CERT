@@ -1,6 +1,6 @@
 <h1 align="center">NCL SPRING 2024 TEAM GAME SCORE CARD & CERT</h1>
 <p align="center">
-<img src="https://i.imgur.com/DqEUbtR.png" height="100%" width="100%" alt="NCL GAME"/>
+<img src="https://i.imgur.com/DqEUbtR.png" height="50%" width="50%" alt="NCL GAME"/>
  
 ## Description
 
