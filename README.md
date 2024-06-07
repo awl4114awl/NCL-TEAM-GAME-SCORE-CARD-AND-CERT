@@ -2,17 +2,11 @@
 <p align="center">
 <img src="https://i.imgur.com/DqEUbtR.png" height="50%" width="50%" alt="NCL GAME"/>
  
-## Description
-
-    This repository contains detailed documents related to my participation in the National Cyber League (NCL) Spring 2024 
-    Team Game. 
+##### This repository contains detailed documents related to my participation in the National Cyber League (NCL) Spring 2024 Team Game. 
     
-    It includes the game scouting report, detailed scorecards for various cybersecurity challenges, and a certificate of 
-    participation.
+##### It includes the game scouting report, detailed scorecards for various cybersecurity challenges, and a certificate of participation.
  
-    Also includes my team's national rank, performance score, accuracy, and completion rates across different modules such as 
-    Cryptography, Enumeration & Exploitation, Forensics, Log Analysis, Network Traffic Analysis, Open Source Intelligence, 
-    Password Cracking, Scanning & Reconnaissance, and Web Application Exploitation.
+##### Also includes my team's national rank, performance score, accuracy, and completion rates across different modules such as Cryptography, Enumeration & Exploitation, Forensics, Log Analysis, Network Traffic Analysis, Open Source Intelligence, Password Cracking, Scanning & Reconnaissance, and Web Application Exploitation.
 
 <p align="center">
 <img src="https://i.imgur.com/aho4LRg.png" height="80%" width="80%" alt="NCL GAME"/>
