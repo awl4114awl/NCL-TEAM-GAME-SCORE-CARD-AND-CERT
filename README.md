@@ -1,6 +1,6 @@
-<h1 align="center">NCL SPRING 2024 TEAM GAME SCORE CARD & CERT</h1>
-<p align="center">
 <img src="https://i.imgur.com/DqEUbtR.png" height="50%" width="50%" alt="NCL GAME"/>
+<h1 align="center">National Cyber League Spring 2024 Team Game Score Card and Certification</h1>
+<p align="center">
  
 ##### This repository contains detailed documents related to my participation in the National Cyber League (NCL) Spring 2024 Team Game. 
     
